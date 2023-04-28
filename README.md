@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Kenneth D. Bonita</h1>
-<h3 align="center">Aspiring Front-end Developer</h3>
+<h3 align="center">Aspiring Front-end & Game Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=comethalley&label=Profile%20views&color=0e75b6&style=flat" alt="comethalley" /> </p>
 
